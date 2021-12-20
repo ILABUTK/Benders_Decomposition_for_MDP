@@ -73,7 +73,11 @@ For support in using this software, submit an
 
 ## Reference
 <a id="1">[1]</a> de Farias DP, Van Roy B (2003) The linear programming approach to approximate dynamic programming. Operations research 51(6):850-865.
-<a id="2">[2]</a> Bertsimas D, Mi$\check{s}$i$\'{c}$ VV (2016) Decomposable markov decision processes: A fluid optimization approach. Operations Research 64(6):1537-1555.
+
+<a id="2">[2]</a> Bertsimas D, Misic VV (2016) Decomposable markov decision processes: A fluid optimization approach. Operations Research 64(6):1537-1555.
+
 <a id="3">[3]</a> Lee I, Epelman MA, Romeijn HE, Smith RL (2017) Simplex algorithm for countable-state discounted markov decision processes. Operations Research 65(4):1029-1042.
+
 <a id="4">[4]</a> Puterman ML (2014) Markov decision processes: discrete stochastic dynamic programming (John Wiley & Sons).
+
 <a id="5">[5]</a> Krishnamurthy V (2016) Partially observed Markov decision processes (Cambridge university press).
