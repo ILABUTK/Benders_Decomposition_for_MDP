@@ -1,2 +1,3 @@
-# Benders_MDP_Dataset
-Dataset for the Benders decomposition-based MDP algorithm
+# Benders_Decomposition_for_MDP Data Generator
+
+Dataset generator for the Benders decomposition-based MDP algorithm
