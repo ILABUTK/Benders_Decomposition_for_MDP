@@ -1,12 +1,11 @@
 
-# A Benders Decomposition Method for Markov Decision Processes
+# Decomposing Markov Decision Processes: A Novel Solution Method
 
-This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+This archive is distributed under the [MIT License](LICENSE).
 
 The source code and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the manuscript under review 
-[A Benders Decomposition Method for Markov Decision Processes](https://www.researchgate.net/publication/353295872_A_Benders_Decomposition_Method_for_Markov_Decision_Processes) by Z. Liu et. al. The data generated for this study are included with the codes.
+[Decomposing Markov Decision Processes: A Novel Solution Method](https://www.researchgate.net/publication/353295872_A_Benders_Decomposition_Method_for_Markov_Decision_Processes) by Z. Liu et. al. The data generated for this study are included with the codes.
 
 ## Cite
 
@@ -16,7 +15,7 @@ Below is the BibTex for citing the manuscript.
 
 ```
 @article{Liu2021,
-  title={A Benders Decomposition Method for Markov Decision Processes},
+  title={Decomposing Markov Decision Processes: A Novel Solution Method},
   author={Liu, Zeyu and Li, Xueping and Khojandi, Anahita},
   journal={Preprint},
   year={2021},
